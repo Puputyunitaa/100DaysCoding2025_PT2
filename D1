@@ -1,10 +1,5 @@
 public class D1 {
     public static void main(String[] args) {
-        System.out.println("puput yang comel");
-        String kata = "awalnya coba-coba akhirnya stress";
-        System.out.printf("kata : %s " , kata );
-        System.out.println();
-        System.out.print(20);
-
+        System.out.println("HELLO WORDL");
     }
 }
